@@ -13,4 +13,8 @@ for i in mn:
 print(' '.join(ans))
 
 
+# dictionary로 해야 시간초과 안남
+# 그냥 set으로 하는것도 방법
+
+
 
